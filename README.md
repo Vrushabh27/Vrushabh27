@@ -23,7 +23,8 @@ Prior to joining UT, I worked with Prof. Satadal Ghosh on developing fast and ef
 Check out my [website](https://vrushabh27.github.io/vrushabh_zinage/) for more information!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Vrushabh27/visits" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vrushabh27&color=brightgreen" alt="Profile Views" />
 </p>
+
 
 
