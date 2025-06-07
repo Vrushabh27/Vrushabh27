@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an incoming Postdoctoral Researcher at Caltech in the Computing and Mathematical Sciences department working with Prof. Soon-Jo Chung and Prof. Fred Hadaegh at the Autonomous Robotics and Controls Lab. I obtained my PhD in Aerospace Engineering PhD from UT Austin working at the intersection of motion planning, trajectory optimization, control theory, data-driven control, and robotics. My current research includes safe learning-based control, optimization and motion planning.
+I am a Postdoctoral Researcher at Caltech in the Computing and Mathematical Sciences department working with Prof. Soon-Jo Chung and Prof. Fred Hadaegh at the Autonomous Robotics and Controls Lab. I obtained my PhD in Aerospace Engineering PhD from UT Austin working at the intersection of motion planning, trajectory optimization, control theory, data-driven control, and robotics. My current research includes safe learning-based control, optimization and motion planning.
 
 I have previously interned at GAMMA Lab. of the University of Maryland under the advise of Prof. Dinesh Manocha on online motion planning and trajectory optimization algorithms. I have also interned at Airbus and Honeywell Aerospace, India.
 
